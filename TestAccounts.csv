@@ -1,0 +1,13 @@
+AccountID,Name,Status,Role,Company,City,Country
+001,John,Active,QA,Sailpoint,Pune,India
+002,William,Active,DEV,Sailpoint,Pune,India
+003,Peter,Active,QA,Sailpoint,Mumbai,India
+004,Thomas,Disable,QA,Sailpoint,Pune,India
+005,David,Acive,DEV,Sailpoint,Mumbai,India
+006,James,Delete,HR,Sailpoint,Pune,India
+007,Stevn,Active,ADMIN,Sailpoint,Pune,India
+008,Joseph,Active,HR,Sailpoint,Pune,India
+009,Smith,Active,DEV,Sailpoint,Pune,India
+011,Michael,Active,IT,Sailpoint,Pune,India
+111,Nancy,Active,QA,Sailpoint,Pune,India
+112,Sara,Active,QA,Sailpoint,Mumbai,India
